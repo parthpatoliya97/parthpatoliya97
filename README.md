@@ -18,7 +18,7 @@ I’m passionate about uncovering insights from data and transforming raw inform
 ## 📫 Connect With Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/-parth-/)  
-- 📧 [Gmail](parthpatoliya001@gmail.com)
+- 📧 [GitHub](https://github.com/parthpatoliya97)
 
 ---
 
