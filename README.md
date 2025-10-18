@@ -26,6 +26,7 @@ I’m passionate about uncovering insights from data and transforming raw inform
 ✨ *“Data is the new oil – but it’s useless unless refined. That’s where I come in.”*  
 
 ## SQL Projects :-
+- [Consumer Ad-hoc insights](https://github.com/parthpatoliya97/AtliQ_hardware_sales_finance_report.git)
 - [Amazon Sales Analysis](https://github.com/parthpatoliya97/Amazon_data_analysis_SQL.git)
 - [Zomato Sales Analysis](https://github.com/parthpatoliya97/zomato_sales_analysis_SQL.git)
 - [Apple Sales Analysis](https://github.com/parthpatoliya97/Apple_Sales_Analysis_SQL.git)
@@ -38,6 +39,7 @@ I’m passionate about uncovering insights from data and transforming raw inform
 - [Window Functions](https://github.com/parthpatoliya97/window_functions_SQL.git)
   
 ## Python Projects :-
+- [Mitron Bank Credit card strategy](https://github.com/parthpatoliya97/Mitron_Bank-_Credit_Card_Strategy.git)
 - [E-commerce sale analysis](https://github.com/parthpatoliya97/Ecommerce-Sales-Analysis-By-Pandas.git)
 - [Walmart Sales Analysis](https://github.com/parthpatoliya97/Walmart_Sales_Analysis.git)
   
