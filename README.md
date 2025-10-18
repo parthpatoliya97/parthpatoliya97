@@ -13,7 +13,7 @@ I’m passionate about uncovering insights from data and transforming raw inform
 - **Power BI** (Interactive Reports & Dashboards) 
 - **NumPy** & **Pandas** (Data Wrangling & Cleaning)  
 - **Matplotlib**, **Seaborn**, **Plotly** (Data Visualization)  
-- **Web Scraping** (BeautifulSoup, Requests)
+
 -----
  
 ## 📫 Connect With Me  
