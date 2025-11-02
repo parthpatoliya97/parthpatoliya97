@@ -43,5 +43,9 @@ I’m passionate about uncovering insights from data and transforming raw inform
 - [Mitron Bank Credit card strategy](https://github.com/parthpatoliya97/Mitron_Bank-_Credit_Card_Strategy.git)
 - [E-commerce sale analysis](https://github.com/parthpatoliya97/Ecommerce-Sales-Analysis-By-Pandas.git)
 - [Walmart Sales Analysis](https://github.com/parthpatoliya97/Walmart_Sales_Analysis.git)
+
+## Excel Projects :-
+- [Sales & Finance Report](https://github.com/parthpatoliya97/Sales_Finance_Report.git)
+- [Road Accident Data Analysis](https://github.com/parthpatoliya97/Road_accident_dashboard.git)
   
 
