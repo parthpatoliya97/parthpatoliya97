@@ -38,7 +38,10 @@ I’m passionate about uncovering insights from data and transforming raw inform
 - [Pizza Sales Analysis](https://github.com/parthpatoliya97/pizza_sales_SQL.git)
 - [Museum Painting Case Study](https://github.com/parthpatoliya97/museum_paintings_case_study_SQL.git)
 - [Window Functions](https://github.com/parthpatoliya97/window_functions_SQL.git)
-  
+
+## Power BI Projects :- 
+- [HR Analytics Dashboard](https://github.com/parthpatoliya97/HR-Analytics-Dashboard.git)
+
 ## Python Projects :-
 - [Mitron Bank Credit card strategy](https://github.com/parthpatoliya97/Mitron_Bank-_Credit_Card_Strategy.git)
 - [E-commerce sale analysis](https://github.com/parthpatoliya97/Ecommerce-Sales-Analysis-By-Pandas.git)
