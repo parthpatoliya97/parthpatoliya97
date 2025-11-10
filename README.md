@@ -42,6 +42,7 @@ I’m passionate about uncovering insights from data and transforming raw inform
 ## Power BI Projects :- 
 - [HR Analytics Dashboard](https://github.com/parthpatoliya97/HR-Analytics-Dashboard.git)
 - [Superstore Sales Analysis](https://github.com/parthpatoliya97/Superstore_Data_Insights.git)
+- [Madhav Ecommerce Data Insights](https://github.com/parthpatoliya97/Madhav-Ecommerce-Sales-Insights.git)
 
 ## Python Projects :-
 - [Mitron Bank Credit card strategy](https://github.com/parthpatoliya97/Mitron_Bank-_Credit_Card_Strategy.git)
