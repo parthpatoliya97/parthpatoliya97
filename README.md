@@ -22,8 +22,6 @@
 
 ---
 
-✨ *“Data is the new oil – but it’s useless unless refined. That’s where I come in.”*  
-
 ## SQL Projects :-
 - Consumer Ad-hoc insights : [📁](https://github.com/parthpatoliya97/AtliQ_hardware_sales_finance_report.git)
 - Amazon Sales Analysis : [📁](https://github.com/parthpatoliya97/Amazon_data_analysis_SQL.git)
