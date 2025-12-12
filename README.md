@@ -34,7 +34,6 @@
 - Library Management System : [📁](https://github.com/parthpatoliya97/library_management_system_SQL.git)
 - Pizza Sales Analysis : [📁](https://github.com/parthpatoliya97/pizza_sales_SQL.git)
 - Museum Painting Case Study : [📁](https://github.com/parthpatoliya97/museum_paintings_case_study_SQL.git)
-- Window Functions : [📁](https://github.com/parthpatoliya97/window_functions_SQL.git)
 
 ## Power BI Projects :- 
 - Goodcabs Transportation & Mobility : [🔗](https://github.com/parthpatoliya97/GOODCABS-Transportation-and-Mobility.git)
