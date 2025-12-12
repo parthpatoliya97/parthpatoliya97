@@ -5,12 +5,12 @@
 ---
 
 ## 🛠️ Skills & Tools :-
-- **Python** (For Data Automation Work to Reduce Time)
+- **Python** (For Data Automation to Reduce Time)
 - **SQL** (Aggregation & Filtering, Joins, Window Functions, Subquery)
 - **Excel** (Pivot Tables, Power Query, Data Cleaning, Power Pivot)
 - **Power BI** (Data Modeling, DAX, Build Business Reports) 
 - **NumPy** & **Pandas** (Data Wrangling & Cleaning)  
-- **Matplotlib**, **Seaborn**, **Plotly** (Data Visualization)  
+- **Matplotlib**, **Seaborn** (Data Visualization)  
 
 -----
  
@@ -47,13 +47,13 @@
 - Madhav Ecommerce Data Insights : [🔗](https://github.com/parthpatoliya97/Madhav-Ecommerce-Sales-Insights.git)
 
 ## Python Projects :-
-- Bank Customer Churn Analysis : [👉](https://github.com/parthpatoliya97/Bank_Customer_Churn_Analysis.git)
-- Mitron Bank Data Insights : [👉](https://github.com/parthpatoliya97/Mitron_Bank-_Credit_Card_Strategy.git)
-- E-commerce sale analysis : [👉](https://github.com/parthpatoliya97/Ecommerce-Sales-Analysis-By-Pandas.git)
-- Walmart Sales Analysis : [👉](https://github.com/parthpatoliya97/Walmart_Sales_Analysis.git)
+- Bank Customer Churn Analysis : [📁](https://github.com/parthpatoliya97/Bank_Customer_Churn_Analysis.git)
+- Mitron Bank Data Insights : [📁](https://github.com/parthpatoliya97/Mitron_Bank-_Credit_Card_Strategy.git)
+- E-commerce sale analysis : [📁](https://github.com/parthpatoliya97/Ecommerce-Sales-Analysis-By-Pandas.git)
+- Walmart Sales Analysis : [📁](https://github.com/parthpatoliya97/Walmart_Sales_Analysis.git)
 
 ## Excel Projects :-
-- Sales & Finance Report : [🛠️](https://github.com/parthpatoliya97/Sales_Finance_Report.git)
-- Road Accident Data Analysis : [🛠️](https://github.com/parthpatoliya97/Road_accident_dashboard.git)
+- Sales & Finance Report : [🔗](https://github.com/parthpatoliya97/Sales_Finance_Report.git)
+- Road Accident Data Analysis : [🔗](https://github.com/parthpatoliya97/Road_accident_dashboard.git)
   
 
