@@ -22,6 +22,18 @@
 
 ---
 
+## Power BI Projects :- 
+- Goodcabs Transportation & Mobility : [🔗](https://github.com/parthpatoliya97/GOODCABS-Transportation-and-Mobility.git)
+- AtliQ Motors EV Sales Strategy in India : [🔗](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis.git)
+- Credit Card Strategic Insights : [🔗](https://github.com/parthpatoliya97/Mitron-Bank-Data-Insights.git)
+- Hospitality Domain Revenue Insights : [🔗](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-.git)
+- Business Insights 360 : [🔗](https://github.com/parthpatoliya97/Business-Insights-360-Dashboard.git)
+- HR Analytics Dashboard : [🔗](https://github.com/parthpatoliya97/HR-Analytics-Dashboard.git)
+- Superstore Sales Analysis : [🔗](https://github.com/parthpatoliya97/Superstore_Data_Insights.git)
+- Madhav Ecommerce Data Insights : [🔗](https://github.com/parthpatoliya97/Madhav-Ecommerce-Sales-Insights.git)
+
+-----------------
+
 ## SQL Projects :-
 - Consumer Ad-hoc insights : [📁](https://github.com/parthpatoliya97/AtliQ_hardware_sales_finance_report.git)
 - Amazon Sales Analysis : [📁](https://github.com/parthpatoliya97/Amazon_data_analysis_SQL.git)
@@ -35,24 +47,18 @@
 - Pizza Sales Analysis : [📁](https://github.com/parthpatoliya97/pizza_sales_SQL.git)
 - Museum Painting Case Study : [📁](https://github.com/parthpatoliya97/museum_paintings_case_study_SQL.git)
 
-## Power BI Projects :- 
-- Goodcabs Transportation & Mobility : [🔗](https://github.com/parthpatoliya97/GOODCABS-Transportation-and-Mobility.git)
-- AtliQ Motors EV Sales Strategy in India : [🔗](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis.git)
-- Credit Card Strategic Insights : [🔗](https://github.com/parthpatoliya97/Mitron-Bank-Data-Insights.git)
-- Hospitality Domain Revenue Insights : [🔗](https://github.com/parthpatoliya97/AtliQ-Grands---Hospitality-Data-Insights-.git)
-- Business Insights 360 : [🔗](https://github.com/parthpatoliya97/Business-Insights-360-Dashboard.git)
-- HR Analytics Dashboard : [🔗](https://github.com/parthpatoliya97/HR-Analytics-Dashboard.git)
-- Superstore Sales Analysis : [🔗](https://github.com/parthpatoliya97/Superstore_Data_Insights.git)
-- Madhav Ecommerce Data Insights : [🔗](https://github.com/parthpatoliya97/Madhav-Ecommerce-Sales-Insights.git)
+-------------------
 
 ## Python Projects :-
-- Bank Customer Churn Analysis : [📁](https://github.com/parthpatoliya97/Bank_Customer_Churn_Analysis.git)
-- Mitron Bank Data Insights : [📁](https://github.com/parthpatoliya97/Mitron_Bank-_Credit_Card_Strategy.git)
-- E-commerce sale analysis : [📁](https://github.com/parthpatoliya97/Ecommerce-Sales-Analysis-By-Pandas.git)
-- Walmart Sales Analysis : [📁](https://github.com/parthpatoliya97/Walmart_Sales_Analysis.git)
+- Bank Customer Churn Analysis : [🔗](https://github.com/parthpatoliya97/Bank_Customer_Churn_Analysis.git)
+- Mitron Bank Data Insights : [🔗](https://github.com/parthpatoliya97/Mitron_Bank-_Credit_Card_Strategy.git)
+- E-commerce sale analysis : [🔗](https://github.com/parthpatoliya97/Ecommerce-Sales-Analysis-By-Pandas.git)
+- Walmart Sales Analysis : [🔗](https://github.com/parthpatoliya97/Walmart_Sales_Analysis.git)
+
+-----------------------
 
 ## Excel Projects :-
-- Sales & Finance Report : [🔗](https://github.com/parthpatoliya97/Sales_Finance_Report.git)
-- Road Accident Data Analysis : [🔗](https://github.com/parthpatoliya97/Road_accident_dashboard.git)
+- Sales & Finance Report : [📁](https://github.com/parthpatoliya97/Sales_Finance_Report.git)
+- Road Accident Data Analysis : [📁](https://github.com/parthpatoliya97/Road_accident_dashboard.git)
   
 
