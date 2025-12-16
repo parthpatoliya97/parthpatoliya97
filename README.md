@@ -51,9 +51,9 @@
 
 ## Python Projects :-
 - Bank Customer Churn Analysis : [🔗](https://github.com/parthpatoliya97/Bank_Customer_Churn_Analysis.git)
-- Mitron Bank Data Insights : [🔗](https://github.com/parthpatoliya97/Mitron_Bank-_Credit_Card_Strategy.git)
-- E-commerce sale analysis : [🔗](https://github.com/parthpatoliya97/Ecommerce-Sales-Analysis-By-Pandas.git)
 - Walmart Sales Analysis : [🔗](https://github.com/parthpatoliya97/Walmart_Sales_Analysis.git)
+- E-commerce sale analysis : [🔗](https://github.com/parthpatoliya97/Ecommerce-Sales-Analysis-By-Pandas.git)
+
 
 -----------------------
 
