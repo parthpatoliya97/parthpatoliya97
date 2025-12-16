@@ -36,16 +36,16 @@
 
 ## SQL Projects :-
 - Amazon Sales Analysis : [📁](https://github.com/parthpatoliya97/Amazon_data_analysis_SQL.git)
+- Coffee Store Data Analysis : [📁](https://github.com/parthpatoliya97/Coffe_Store_Data_Analysis_SQL.git)
+- Library Management System : [📁](https://github.com/parthpatoliya97/library_management_system_SQL.git)
 - Zomato Sales Analysis : [📁](https://github.com/parthpatoliya97/zomato_sales_analysis_SQL.git)
+- Museum Painting Case Study : [📁](https://github.com/parthpatoliya97/museum_paintings_case_study_SQL.git)
 - Apple Sales Analysis : [📁](https://github.com/parthpatoliya97/Apple_Sales_Analysis_SQL.git)
 - Consumer Ad-hoc insights : [📁](https://github.com/parthpatoliya97/AtliQ_hardware_sales_finance_report.git)
 - Netflix Sales Analysis : [📁](https://github.com/parthpatoliya97/Netflix_data_analysis_SQL.git)
 - Spotify Data Analysis : [📁](https://github.com/parthpatoliya97/Spotify_data_analysis_SQL.git)
 - IPL Data Insights : [📁](https://github.com/parthpatoliya97/IPL_Data_Insights.git)
-- Coffee Store Data Analysis : [📁](https://github.com/parthpatoliya97/Coffe_Store_Data_Analysis_SQL.git)
-- Library Management System : [📁](https://github.com/parthpatoliya97/library_management_system_SQL.git)
 - Pizza Sales Analysis : [📁](https://github.com/parthpatoliya97/pizza_sales_SQL.git)
-- Museum Painting Case Study : [📁](https://github.com/parthpatoliya97/museum_paintings_case_study_SQL.git)
 
 -------------------
 
