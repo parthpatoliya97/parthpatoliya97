@@ -5,7 +5,7 @@
 ---
 ## 🛠️ Skills & Tools :-
 - **SQL**      : Aggregation & Filtering, Joins, Window Functions, Subquery,Conditional Logic, CTE, Views
-- **Excel**    : Pivot Tables, Power Query, Data Cleaning, Power Pivot)
+- **Excel**    : Pivot Tables, Power Query, Data Cleaning, Power Pivot
 - **Power BI** : Data Modeling, DAX, Build Business Reports
 - **Python**   : Pandas, Numpy, Matplotlib
 -----
