@@ -27,6 +27,7 @@
 -----------------
 ## SQL Projects :-
 - Consumer Goods Ad-hoc Insights : [📁](https://github.com/parthpatoliya97/Ad-hoc-Consumer-Goods-Insights-CRPC-4.git)
+- AtliQ Mart Festive Promotion Analysis : [📁](https://github.com/parthpatoliya97/AtliQ-Mart-Retail-Store-Campaign-Strategy.git)
 - Amazon Sales Analysis : [📁](https://github.com/parthpatoliya97/Amazon_data_analysis_SQL.git)
 - Coffee Store Data Analysis : [📁](https://github.com/parthpatoliya97/Coffe_Store_Data_Analysis_SQL.git)
 - Library Management System : [📁](https://github.com/parthpatoliya97/library_management_system_SQL.git)
