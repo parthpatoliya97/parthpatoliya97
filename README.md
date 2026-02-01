@@ -11,7 +11,8 @@
 -----
 ## 📫 Connect With Me  
 
-- 🔗 LinkedIn : [Check Profile](https://www.linkedin.com/in/parthpatoliyadataanalyst/)  
+- 🔗 LinkedIn : [Check Profile](https://www.linkedin.com/in/parthpatoliyadataanalyst/)
+- 📁 Project Portfolio : [View Portfolio](https://codebasics.io/portfolio/Parth-Patoliya)
 - 📩 Gmail : parthpatoliya001@gmail.com
 - 📞 Phone : 9737036488
 ---
